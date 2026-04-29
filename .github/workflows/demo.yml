@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - name: show content
-        run: cat textfile.txt
+        run: cat textfile
